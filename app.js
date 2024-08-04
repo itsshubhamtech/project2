@@ -1,0 +1,1 @@
+This is JavaScript of project 2
